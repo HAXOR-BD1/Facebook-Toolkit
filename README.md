@@ -16,6 +16,6 @@ git clone https://github.com/HAXOR-BD1/Facebook-Toolkit
 
 cd Facebook-Toolkit
 
-unzip Facebook Toolkit.zip
+unzip 'Facebook Toolkit.zip'@
 
 python2 fbtoolkit.py
