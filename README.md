@@ -18,4 +18,6 @@ cd Facebook-Toolkit
 
 unzip 'Facebook Toolkit.zip'
 
+cd R-ATTACK
+
 python2 fbtoolkit.py
